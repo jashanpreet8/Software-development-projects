@@ -1,0 +1,70 @@
+"""
+-------------------------------------------------------
+Assignment 7, Testing
+-------------------------------------------------------
+Author:  Jashanpreet Singh Jashanpreet Singh
+ID:      169046749
+Email:   jash6749@mylaurier.ca
+Version: 2023-11-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+[1]
+[1, 2, 3]
+[1, 2, 3, 4, 6, 8, 12]
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number: 5
+Enter a positive number: 7
+Enter a positive number: 2
+Enter a positive number: -7
+Enter a positive number: -2
+Enter a positive number: 0
+[5, 7, 2]
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 0
+[1, 2]
+
+Enter a positive number: -1
+Enter a positive number: -2
+Enter a positive number: 0
+[]
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+[0, 4, 6]
+
+[3]
+
+Enter a positive number: 1
+Enter a positive number: 3
+Enter a positive number: 6
+Enter a positive number: 7
+Enter a positive number: 7
+Enter a positive number: -3
+Enter a positive number: -3
+Enter a positive number: 0
+[3, 4]
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+minuend after: [4]
+minuend after: [4, 21, 14, 90]
+minuend after: [-5, -5, 0, 21, 14, 90]
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+(True, -1)
+
+(False, 3)
+
+Enter a positive number: 99
+Enter a positive number: 23
+Enter a positive number: 41
+Enter a positive number: 0
+(False, 1)

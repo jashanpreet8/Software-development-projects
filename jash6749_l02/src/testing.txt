@@ -1,0 +1,103 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jashanpreet Singh Jashanpreet Singh
+ID:      169046749
+Email:   jash6749@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Temperature(C): 25
+Temperature(F): 77.0
+
+Temperature(C): 0
+Temperature(F): 32.0
+
+Temperature(C): -25
+Temperature(F): -13.0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Hourly rate of pay: $32.50
+Hours worked in the week: 36.5
+Total pay for the week: $ 1186.25
+
+Hourly rate of pay: $55.50
+Hours worked in the week: 40
+Total pay for the week: $ 2220.0
+
+Hourly rate of pay: $15.50
+Hours worked in the week: 15.5
+Total pay for the week: $ 240.25
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+The monthly payments are: $ 1319.9114784333174
+
+Mortgage principal ($): 900000
+Number of years: 10
+Yearly interest rate (%): 6
+The monthly payments are: $ 9991.845174748607
+
+Mortgage principal ($): 1500000
+Number of years: 25
+Yearly interest rate (%): 5
+The monthly payments are: $ 8768.850622619702
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Number of flyers: 10000
+Number of volunteers: 22
+Flyers per volunteer:  454
+Flyers left over:  12
+
+Number of flyers: 500
+Number of volunteers: 5
+Flyers per volunteer:  100
+Flyers left over:  0
+
+Number of flyers: 500000
+Number of volunteers: 1987
+Flyers per volunteer:  251
+Flyers left over:  1263
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Food Charge: $10.75
+Sales Tax in (%): 8.5
+Tip in (%): 15
+Cost of meal:
+Subtotal: $10.75
+     Tax: $0.9137500000000001
+     Tip: $1.6125
+------------------
+   Total: $13.276250000000001
+   
+Food Charge: $149.99
+Sales Tax in (%): 13
+Tip in (%): 10
+Cost of meal:
+Subtotal: $149.99
+     Tax: $19.498700000000003
+     Tip: $14.999000000000002
+------------------
+   Total: $184.48770000000002
+   
+Food Charge: $300000
+Sales Tax in (%): 2
+Tip in (%): 0
+Cost of meal:
+Subtotal: $300000.0
+     Tax: $6000.0
+     Tip: $0.0
+------------------
+   Total: $306000.0
+-------------------------------------------------------
