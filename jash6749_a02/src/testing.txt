@@ -1,0 +1,113 @@
+"""
+-------------------------------------------------------
+Assignment 2 Testing
+-------------------------------------------------------
+Author:  Jashanpreet Singh Jashanpreet Singh
+ID:      169046749
+Email:   jash6749@mylaurier.ca
+Version: 2023-09-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: $32000
+Projected Tax Report
+--------------------------
+Total sales:   $  32,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $   5,920.00
+
+Enter the total sales: $100000
+Projected Tax Report
+--------------------------
+Total sales:   $ 100,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $  18,500.00
+
+Enter the total sales: $1000
+Projected Tax Report
+--------------------------
+Total sales:   $   1,000.00
+Annual tax:    % 18.5
+--------------------------
+Tax:           $     185.00
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+The difference of the digits of 25 is -3
+
+Enter a positive digit number: 91
+The difference of the digits of 91 is 8
+
+Enter a positive digit number: 69
+The difference of the digits of 69 is -3
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 20230930
+The reformatted date: 2023/09/30
+
+Enter a date in the format YYYYMMDD: 19621025
+The reformatted date: 1962/10/25
+
+Enter a date in the format YYYYMMDD: 20000101
+The reformatted date: 2000/01/01
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers: 1400
+Number of delivery people: 12
+Flyers per delivery person: 116
+Flyers left over: 8
+
+Number of flyers: 65380
+Number of delivery people: 378
+Flyers per delivery person: 172
+Flyers left over: 364
+
+Number of flyers: 999
+Number of delivery people: 66
+Flyers per delivery person: 15
+Flyers left over: 9
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 4
+Foundation width (m): 2
+Foundation height (m): 0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $ 600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $ 2,820.00
+Total cost: $ 3,420.00
+
+Foundation length (m): 211
+Foundation width (m): 100
+Foundation height (m): 10
+Wall height (m): 150
+Cost of concrete ($/m^3): 99
+Cost of bricks ($/m^2): 91
+Concrete needed for foundation (m^3): 211,000.00
+Cost of concrete: $ 20,889,000.00
+Bricks needed for walls (m^2): 93,300.00
+Cost of bricks: $ 8,490,300.00
+Total cost: $ 29,379,300.00
+
+Foundation length (m): 3.54
+Foundation width (m): 2.7554
+Foundation height (m): 35.3
+Wall height (m): 242.6
+Cost of concrete ($/m^3): 244
+Cost of bricks ($/m^2): 23
+Concrete needed for foundation (m^3): 344.32
+Cost of concrete: $ 84,014.15
+Bricks needed for walls (m^2): 3,054.53
+Cost of bricks: $ 70,254.15
+Total cost: $ 154,268.30
