@@ -19,3 +19,5 @@ __'l'__ indicates a lab followed by lab number.
 Under each assignment and lab directory, different functions are specified as tasks (__'t01'__, __'t02'__, etc.). Each task 
 represents a specific programming challenge or requirement to be implemented.
 
+## Grade  
+I am proud to mention that I achieved an A+ grade in this course.
